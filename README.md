@@ -1,3 +1,6 @@
+# Efficient Pytorch Implementation of Fenwick
+We need to update the README.md file in the future. I just need to say that the whole implementation is based on the implementation of gplessis. The original implementation can be found here [original](https://github.com/gplessis/efficient_densenet_pytorch) and to them, we give all the credit. 
+
 # efficient_densenet_pytorch
 A PyTorch >=1.0 implementation of DenseNets, optimized to save GPU memory.
 
